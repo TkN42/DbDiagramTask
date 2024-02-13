@@ -2,7 +2,7 @@
 
 * MyDbBackup : Banka.bak
 
-*MyDbScript : Banka.sql
+* MyDbScript : Banka.sql
 
 ![Task](https://github.com/TkN42/DbDiagramTask/assets/29886553/27e9e2c0-2b9e-417a-bbbc-ba838bcd4ee3)
 
